@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596473447774",
+    "project_id": "folisho-8dcf9",
+    "storage_bucket": "folisho-8dcf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596473447774:android:ea3e0553753e56f3cbbbcf",
+        "android_client_info": {
+          "package_name": "com.example.folisho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596473447774-nchhmfnj5itg74hvr77edkfajpifqjul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDOTzrO8Lw9RK8frd2nCSoDJdXDWKwMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596473447774-nchhmfnj5itg74hvr77edkfajpifqjul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
